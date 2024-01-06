@@ -4,13 +4,13 @@ This is a Python-based desktop assistant, inspired by AI assistants, capable of 
 
 ## Introduction
 
-Jarvis is an AI-powered desktop assistant built in Python, leveraging multiple libraries and APIs to provide an interactive and helpful experience to users. The assistant is equipped with features to perform tasks via voice commands, automate applications, retrieve information from the web, manage schedules, and more.
+Athena is an AI-powered desktop assistant built in Python, leveraging multiple libraries and APIs to provide an interactive and helpful experience to users. The assistant is equipped with features to perform tasks via voice commands, automate applications, retrieve information from the web, manage schedules, and more.
 
 ## Features
 
 ### Voice Control
 
-Jarvis responds to voice commands and performs various actions based on user requests.
+Athena responds to voice commands and performs various actions based on user requests.
 
 ### Automation
 
