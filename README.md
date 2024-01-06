@@ -1,4 +1,4 @@
-# Desktop Assistant - Jarvis
+# Athena - Desktop Assistant
 
 This is a Python-based desktop assistant, inspired by AI assistants, capable of performing various tasks, including automation, web searches, utility functions, and more.
 
